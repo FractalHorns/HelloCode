@@ -1,0 +1,2 @@
+# HelloCode
+C# first lection
